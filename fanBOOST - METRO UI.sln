@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fanBOOST - METRO UI", "fanBOOST - METRO UI.csproj", "{71C6D26A-6975-4D9F-9C88-69805E8D286E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C6D26A-6975-4D9F-9C88-69805E8D286E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C6D26A-6975-4D9F-9C88-69805E8D286E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C6D26A-6975-4D9F-9C88-69805E8D286E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C6D26A-6975-4D9F-9C88-69805E8D286E}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
